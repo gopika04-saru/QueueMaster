@@ -204,6 +204,32 @@ spring.jpa.show-sql=true
 
 ---
 
+## 📸 Output Screenshots
+
+### 🏠 Homepage
+![Home](Screenshots/Home.png)
+
+![Home](Screenshots/Home1.png)
+
+![Home](Screenshots/Home2.png)
+
+### 🎬 Join Queue Page
+![Join Queue Page](Screenshots/JoinQueue.png)
+
+### 📝 Check Queue Page
+![Check Queue](Screenshots/CheckQueue.png)
+
+### 📝 Employee Login Page
+![Employee Login](Screenshots/EmployeeLogin.png)
+
+### 📝 Employee Dashboard Page
+![Employee Dashboard](Screenshots/EmployeeDashboard.png)
+
+### 📝 QueueList Page
+![Queue List](Screenshots/QueueList.png)
+
+---
+
 ## 📞 Contact
 
 For questions, issues, or contributions:
