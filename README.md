@@ -204,34 +204,6 @@ spring.jpa.show-sql=true
 
 ---
 
-## 🖼️ Output Screenshots
-
-###  🔐 Home Page
-
-![Home](Home.png)
-
-![Home1](assets/Home1.png)
-
-![Home2](assets/Home2.png)
-
-### 🔐 Employee Login Page
-
-![Employee Login](assets/EmployeeLogin.png)
-
-### 📋 Employee Dashboard
-
-![Employee Dashboard](assets/EmployeeDashboard.png)
-
-### 🧾 Customer Join Queue Page
-
-![Join Queue](assets/Join-in-Queue.png)
-
-### 📍 Customer Status View
-
-![Customer Status](assets/CheckStatus.png)
-
----
-
 ## 📞 Contact
 
 For questions, issues, or contributions:
