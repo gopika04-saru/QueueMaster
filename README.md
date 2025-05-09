@@ -208,11 +208,11 @@ spring.jpa.show-sql=true
 
 ###  🔐 Home Page
 
-![Employee Login](Home.png)
+![Home](Home.png)
 
-![Employee Login](assets/Home1.png)
+![Home1](assets/Home1.png)
 
-![Employee Login](assets/Home2.png)
+![Home2](assets/Home2.png)
 
 ### 🔐 Employee Login Page
 
