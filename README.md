@@ -208,7 +208,7 @@ spring.jpa.show-sql=true
 
 ###  🔐 Home Page
 
-![Employee Login](assets/Home.png)
+![Employee Login](Home.png)
 
 ![Employee Login](assets/Home1.png)
 
